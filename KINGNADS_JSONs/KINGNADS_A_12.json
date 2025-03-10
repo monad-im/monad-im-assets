@@ -1,0 +1,20 @@
+{
+    "id": "7",
+    "name": "KINGNADS_A_12",
+    "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_12.png",
+    "edition": 7,
+    "attributes": [
+        {
+            "trait_type": "BASE",
+            "value": "1"
+        },
+        {
+            "trait_type": "BADGE",
+            "value": "badge_rank_7"
+        },
+        {
+            "trait_type": "RANK",
+            "value": "rank_1_7"
+        }
+    ]
+}
