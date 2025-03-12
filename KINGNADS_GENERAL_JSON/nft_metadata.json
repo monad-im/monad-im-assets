@@ -1,1801 +1,1548 @@
 [
     {
         "id": "1",
-        "name": "KINGNADS_A_18",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_18.png",
+        "name": "KINGNADS_KING_1",
+        "description": "RANK KING 1",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_KING_1.png",
         "edition": 1,
         "attributes": [
             {
-                "trait_type": "BASE",
+                "trait_type": "RANK_LETTER",
+                "value": "KING"
+            },
+            {
+                "trait_type": "RANK_NUMBER",
                 "value": "1"
-            },
-            {
-                "trait_type": "BADGE",
-                "value": "badge_rank_1"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_1_1"
             }
         ]
     },
     {
         "id": "2",
-        "name": "KINGNADS_A_17",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_17.png",
+        "name": "KINGNADS_A_18",
+        "description": "RANK A 18",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_18.png",
         "edition": 2,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "1"
+                "trait_type": "RANK_LETTER",
+                "value": "A"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_2"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_1_2"
+                "trait_type": "RANK_NUMBER",
+                "value": "18"
             }
         ]
     },
     {
         "id": "3",
-        "name": "KINGNADS_A_16",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_16.png",
+        "name": "KINGNADS_A_17",
+        "description": "RANK A 17",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_17.png",
         "edition": 3,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "1"
+                "trait_type": "RANK_LETTER",
+                "value": "A"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_3"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_1_3"
+                "trait_type": "RANK_NUMBER",
+                "value": "17"
             }
         ]
     },
     {
         "id": "4",
-        "name": "KINGNADS_A_15",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_15.png",
+        "name": "KINGNADS_A_16",
+        "description": "RANK A 16",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_16.png",
         "edition": 4,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "1"
+                "trait_type": "RANK_LETTER",
+                "value": "A"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_4"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_1_4"
+                "trait_type": "RANK_NUMBER",
+                "value": "16"
             }
         ]
     },
     {
         "id": "5",
-        "name": "KINGNADS_A_14",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_14.png",
+        "name": "KINGNADS_A_15",
+        "description": "RANK A 15",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_15.png",
         "edition": 5,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "1"
+                "trait_type": "RANK_LETTER",
+                "value": "A"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_5"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_1_5"
+                "trait_type": "RANK_NUMBER",
+                "value": "15"
             }
         ]
     },
     {
         "id": "6",
-        "name": "KINGNADS_A_13",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_13.png",
+        "name": "KINGNADS_A_14",
+        "description": "RANK A 14",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_14.png",
         "edition": 6,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "1"
+                "trait_type": "RANK_LETTER",
+                "value": "A"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_6"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_1_6"
+                "trait_type": "RANK_NUMBER",
+                "value": "14"
             }
         ]
     },
     {
         "id": "7",
-        "name": "KINGNADS_A_12",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_12.png",
+        "name": "KINGNADS_A_13",
+        "description": "RANK A 13",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_13.png",
         "edition": 7,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "1"
+                "trait_type": "RANK_LETTER",
+                "value": "A"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_7"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_1_7"
+                "trait_type": "RANK_NUMBER",
+                "value": "13"
             }
         ]
     },
     {
         "id": "8",
-        "name": "KINGNADS_A_11",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_11.png",
+        "name": "KINGNADS_A_12",
+        "description": "RANK A 12",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_12.png",
         "edition": 8,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "1"
+                "trait_type": "RANK_LETTER",
+                "value": "A"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_8"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_1_8"
+                "trait_type": "RANK_NUMBER",
+                "value": "12"
             }
         ]
     },
     {
         "id": "9",
-        "name": "KINGNADS_A_10",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_10.png",
+        "name": "KINGNADS_A_11",
+        "description": "RANK A 11",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_11.png",
         "edition": 9,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "1"
+                "trait_type": "RANK_LETTER",
+                "value": "A"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_9"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_1_9"
+                "trait_type": "RANK_NUMBER",
+                "value": "11"
             }
         ]
     },
     {
         "id": "10",
-        "name": "KINGNADS_A_9",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_9.png",
+        "name": "KINGNADS_A_10",
+        "description": "RANK A 10",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_10.png",
         "edition": 10,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "1"
+                "trait_type": "RANK_LETTER",
+                "value": "A"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_10"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_1_10"
+                "trait_type": "RANK_NUMBER",
+                "value": "10"
             }
         ]
     },
     {
         "id": "11",
-        "name": "KINGNADS_A_8",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_8.png",
+        "name": "KINGNADS_A_9",
+        "description": "RANK A 9",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_9.png",
         "edition": 11,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "1"
+                "trait_type": "RANK_LETTER",
+                "value": "A"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_11"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_1_11"
+                "trait_type": "RANK_NUMBER",
+                "value": "9"
             }
         ]
     },
     {
         "id": "12",
-        "name": "KINGNADS_A_7",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_7.png",
+        "name": "KINGNADS_A_8",
+        "description": "RANK A 8",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_8.png",
         "edition": 12,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "1"
+                "trait_type": "RANK_LETTER",
+                "value": "A"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_12"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_1_12"
+                "trait_type": "RANK_NUMBER",
+                "value": "8"
             }
         ]
     },
     {
         "id": "13",
-        "name": "KINGNADS_A_6",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_6.png",
+        "name": "KINGNADS_A_7",
+        "description": "RANK A 7",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_7.png",
         "edition": 13,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "1"
+                "trait_type": "RANK_LETTER",
+                "value": "A"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_13"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_1_13"
+                "trait_type": "RANK_NUMBER",
+                "value": "7"
             }
         ]
     },
     {
         "id": "14",
-        "name": "KINGNADS_A_5",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_5.png",
+        "name": "KINGNADS_A_6",
+        "description": "RANK A 6",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_6.png",
         "edition": 14,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "1"
+                "trait_type": "RANK_LETTER",
+                "value": "A"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_14"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_1_14"
+                "trait_type": "RANK_NUMBER",
+                "value": "6"
             }
         ]
     },
     {
         "id": "15",
-        "name": "KINGNADS_A_4",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_4.png",
+        "name": "KINGNADS_A_5",
+        "description": "RANK A 5",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_5.png",
         "edition": 15,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "1"
+                "trait_type": "RANK_LETTER",
+                "value": "A"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_15"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_1_15"
+                "trait_type": "RANK_NUMBER",
+                "value": "5"
             }
         ]
     },
     {
         "id": "16",
-        "name": "KINGNADS_A_3",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_3.png",
+        "name": "KINGNADS_A_4",
+        "description": "RANK A 4",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_4.png",
         "edition": 16,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "1"
+                "trait_type": "RANK_LETTER",
+                "value": "A"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_16"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_1_16"
+                "trait_type": "RANK_NUMBER",
+                "value": "4"
             }
         ]
     },
     {
         "id": "17",
-        "name": "KINGNADS_A_2",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_2.png",
+        "name": "KINGNADS_A_3",
+        "description": "RANK A 3",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_3.png",
         "edition": 17,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "1"
+                "trait_type": "RANK_LETTER",
+                "value": "A"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_17"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_1_17"
+                "trait_type": "RANK_NUMBER",
+                "value": "3"
             }
         ]
     },
     {
         "id": "18",
-        "name": "KINGNADS_A_1",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_1.png",
+        "name": "KINGNADS_A_2",
+        "description": "RANK A 2",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_2.png",
         "edition": 18,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "1"
+                "trait_type": "RANK_LETTER",
+                "value": "A"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_18"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_1_18"
+                "trait_type": "RANK_NUMBER",
+                "value": "2"
             }
         ]
     },
     {
         "id": "19",
-        "name": "KINGNADS_B_18",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_18.png",
+        "name": "KINGNADS_A_1",
+        "description": "RANK A 1",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_A_1.png",
         "edition": 19,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "2"
+                "trait_type": "RANK_LETTER",
+                "value": "A"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_1"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_2_1"
+                "trait_type": "RANK_NUMBER",
+                "value": "1"
             }
         ]
     },
     {
         "id": "20",
-        "name": "KINGNADS_B_17",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_17.png",
+        "name": "KINGNADS_B_18",
+        "description": "RANK B 18",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_18.png",
         "edition": 20,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "2"
+                "trait_type": "RANK_LETTER",
+                "value": "B"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_2"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_2_2"
+                "trait_type": "RANK_NUMBER",
+                "value": "18"
             }
         ]
     },
     {
         "id": "21",
-        "name": "KINGNADS_B_16",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_16.png",
+        "name": "KINGNADS_B_17",
+        "description": "RANK B 17",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_17.png",
         "edition": 21,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "2"
+                "trait_type": "RANK_LETTER",
+                "value": "B"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_3"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_2_3"
+                "trait_type": "RANK_NUMBER",
+                "value": "17"
             }
         ]
     },
     {
         "id": "22",
-        "name": "KINGNADS_B_15",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_15.png",
+        "name": "KINGNADS_B_16",
+        "description": "RANK B 16",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_16.png",
         "edition": 22,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "2"
+                "trait_type": "RANK_LETTER",
+                "value": "B"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_4"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_2_4"
+                "trait_type": "RANK_NUMBER",
+                "value": "16"
             }
         ]
     },
     {
         "id": "23",
-        "name": "KINGNADS_B_14",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_14.png",
+        "name": "KINGNADS_B_15",
+        "description": "RANK B 15",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_15.png",
         "edition": 23,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "2"
+                "trait_type": "RANK_LETTER",
+                "value": "B"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_5"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_2_5"
+                "trait_type": "RANK_NUMBER",
+                "value": "15"
             }
         ]
     },
     {
         "id": "24",
-        "name": "KINGNADS_B_13",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_13.png",
+        "name": "KINGNADS_B_14",
+        "description": "RANK B 14",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_14.png",
         "edition": 24,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "2"
+                "trait_type": "RANK_LETTER",
+                "value": "B"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_6"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_2_6"
+                "trait_type": "RANK_NUMBER",
+                "value": "14"
             }
         ]
     },
     {
         "id": "25",
-        "name": "KINGNADS_B_12",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_12.png",
+        "name": "KINGNADS_B_13",
+        "description": "RANK B 13",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_13.png",
         "edition": 25,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "2"
+                "trait_type": "RANK_LETTER",
+                "value": "B"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_7"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_2_7"
+                "trait_type": "RANK_NUMBER",
+                "value": "13"
             }
         ]
     },
     {
         "id": "26",
-        "name": "KINGNADS_B_11",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_11.png",
+        "name": "KINGNADS_B_12",
+        "description": "RANK B 12",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_12.png",
         "edition": 26,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "2"
+                "trait_type": "RANK_LETTER",
+                "value": "B"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_8"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_2_8"
+                "trait_type": "RANK_NUMBER",
+                "value": "12"
             }
         ]
     },
     {
         "id": "27",
-        "name": "KINGNADS_B_10",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_10.png",
+        "name": "KINGNADS_B_11",
+        "description": "RANK B 11",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_11.png",
         "edition": 27,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "2"
+                "trait_type": "RANK_LETTER",
+                "value": "B"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_9"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_2_9"
+                "trait_type": "RANK_NUMBER",
+                "value": "11"
             }
         ]
     },
     {
         "id": "28",
-        "name": "KINGNADS_B_9",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_9.png",
+        "name": "KINGNADS_B_10",
+        "description": "RANK B 10",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_10.png",
         "edition": 28,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "2"
+                "trait_type": "RANK_LETTER",
+                "value": "B"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_10"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_2_10"
+                "trait_type": "RANK_NUMBER",
+                "value": "10"
             }
         ]
     },
     {
         "id": "29",
-        "name": "KINGNADS_B_8",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_8.png",
+        "name": "KINGNADS_B_9",
+        "description": "RANK B 9",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_9.png",
         "edition": 29,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "2"
+                "trait_type": "RANK_LETTER",
+                "value": "B"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_11"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_2_11"
+                "trait_type": "RANK_NUMBER",
+                "value": "9"
             }
         ]
     },
     {
         "id": "30",
-        "name": "KINGNADS_B_7",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_7.png",
+        "name": "KINGNADS_B_8",
+        "description": "RANK B 8",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_8.png",
         "edition": 30,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "2"
+                "trait_type": "RANK_LETTER",
+                "value": "B"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_12"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_2_12"
+                "trait_type": "RANK_NUMBER",
+                "value": "8"
             }
         ]
     },
     {
         "id": "31",
-        "name": "KINGNADS_B_6",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_6.png",
+        "name": "KINGNADS_B_7",
+        "description": "RANK B 7",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_7.png",
         "edition": 31,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "2"
+                "trait_type": "RANK_LETTER",
+                "value": "B"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_13"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_2_13"
+                "trait_type": "RANK_NUMBER",
+                "value": "7"
             }
         ]
     },
     {
         "id": "32",
-        "name": "KINGNADS_B_5",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_5.png",
+        "name": "KINGNADS_B_6",
+        "description": "RANK B 6",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_6.png",
         "edition": 32,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "2"
+                "trait_type": "RANK_LETTER",
+                "value": "B"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_14"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_2_14"
+                "trait_type": "RANK_NUMBER",
+                "value": "6"
             }
         ]
     },
     {
         "id": "33",
-        "name": "KINGNADS_B_4",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_4.png",
+        "name": "KINGNADS_B_5",
+        "description": "RANK B 5",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_5.png",
         "edition": 33,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "2"
+                "trait_type": "RANK_LETTER",
+                "value": "B"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_15"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_2_15"
+                "trait_type": "RANK_NUMBER",
+                "value": "5"
             }
         ]
     },
     {
         "id": "34",
-        "name": "KINGNADS_B_3",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_3.png",
+        "name": "KINGNADS_B_4",
+        "description": "RANK B 4",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_4.png",
         "edition": 34,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "2"
+                "trait_type": "RANK_LETTER",
+                "value": "B"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_16"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_2_16"
+                "trait_type": "RANK_NUMBER",
+                "value": "4"
             }
         ]
     },
     {
         "id": "35",
-        "name": "KINGNADS_B_2",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_2.png",
+        "name": "KINGNADS_B_3",
+        "description": "RANK B 3",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_3.png",
         "edition": 35,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "2"
+                "trait_type": "RANK_LETTER",
+                "value": "B"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_17"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_2_17"
+                "trait_type": "RANK_NUMBER",
+                "value": "3"
             }
         ]
     },
     {
         "id": "36",
-        "name": "KINGNADS_B_1",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_1.png",
+        "name": "KINGNADS_B_2",
+        "description": "RANK B 2",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_2.png",
         "edition": 36,
         "attributes": [
             {
-                "trait_type": "BASE",
+                "trait_type": "RANK_LETTER",
+                "value": "B"
+            },
+            {
+                "trait_type": "RANK_NUMBER",
                 "value": "2"
-            },
-            {
-                "trait_type": "BADGE",
-                "value": "badge_rank_18"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_2_18"
             }
         ]
     },
     {
         "id": "37",
-        "name": "KINGNADS_C_18",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_18.png",
+        "name": "KINGNADS_B_1",
+        "description": "RANK B 1",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_B_1.png",
         "edition": 37,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "3"
+                "trait_type": "RANK_LETTER",
+                "value": "B"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_1"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_3_1"
+                "trait_type": "RANK_NUMBER",
+                "value": "1"
             }
         ]
     },
     {
         "id": "38",
-        "name": "KINGNADS_C_17",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_17.png",
+        "name": "KINGNADS_C_18",
+        "description": "RANK C 18",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_18.png",
         "edition": 38,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "3"
+                "trait_type": "RANK_LETTER",
+                "value": "C"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_2"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_3_2"
+                "trait_type": "RANK_NUMBER",
+                "value": "18"
             }
         ]
     },
     {
         "id": "39",
-        "name": "KINGNADS_C_16",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_16.png",
+        "name": "KINGNADS_C_17",
+        "description": "RANK C 17",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_17.png",
         "edition": 39,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "3"
+                "trait_type": "RANK_LETTER",
+                "value": "C"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_3"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_3_3"
+                "trait_type": "RANK_NUMBER",
+                "value": "17"
             }
         ]
     },
     {
         "id": "40",
-        "name": "KINGNADS_C_15",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_15.png",
+        "name": "KINGNADS_C_16",
+        "description": "RANK C 16",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_16.png",
         "edition": 40,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "3"
+                "trait_type": "RANK_LETTER",
+                "value": "C"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_4"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_3_4"
+                "trait_type": "RANK_NUMBER",
+                "value": "16"
             }
         ]
     },
     {
         "id": "41",
-        "name": "KINGNADS_C_14",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_14.png",
+        "name": "KINGNADS_C_15",
+        "description": "RANK C 15",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_15.png",
         "edition": 41,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "3"
+                "trait_type": "RANK_LETTER",
+                "value": "C"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_5"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_3_5"
+                "trait_type": "RANK_NUMBER",
+                "value": "15"
             }
         ]
     },
     {
         "id": "42",
-        "name": "KINGNADS_C_13",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_13.png",
+        "name": "KINGNADS_C_14",
+        "description": "RANK C 14",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_14.png",
         "edition": 42,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "3"
+                "trait_type": "RANK_LETTER",
+                "value": "C"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_6"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_3_6"
+                "trait_type": "RANK_NUMBER",
+                "value": "14"
             }
         ]
     },
     {
         "id": "43",
-        "name": "KINGNADS_C_12",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_12.png",
+        "name": "KINGNADS_C_13",
+        "description": "RANK C 13",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_13.png",
         "edition": 43,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "3"
+                "trait_type": "RANK_LETTER",
+                "value": "C"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_7"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_3_7"
+                "trait_type": "RANK_NUMBER",
+                "value": "13"
             }
         ]
     },
     {
         "id": "44",
-        "name": "KINGNADS_C_11",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_11.png",
+        "name": "KINGNADS_C_12",
+        "description": "RANK C 12",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_12.png",
         "edition": 44,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "3"
+                "trait_type": "RANK_LETTER",
+                "value": "C"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_8"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_3_8"
+                "trait_type": "RANK_NUMBER",
+                "value": "12"
             }
         ]
     },
     {
         "id": "45",
-        "name": "KINGNADS_C_10",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_10.png",
+        "name": "KINGNADS_C_11",
+        "description": "RANK C 11",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_11.png",
         "edition": 45,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "3"
+                "trait_type": "RANK_LETTER",
+                "value": "C"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_9"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_3_9"
+                "trait_type": "RANK_NUMBER",
+                "value": "11"
             }
         ]
     },
     {
         "id": "46",
-        "name": "KINGNADS_C_9",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_9.png",
+        "name": "KINGNADS_C_10",
+        "description": "RANK C 10",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_10.png",
         "edition": 46,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "3"
+                "trait_type": "RANK_LETTER",
+                "value": "C"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_10"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_3_10"
+                "trait_type": "RANK_NUMBER",
+                "value": "10"
             }
         ]
     },
     {
         "id": "47",
-        "name": "KINGNADS_C_8",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_8.png",
+        "name": "KINGNADS_C_9",
+        "description": "RANK C 9",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_9.png",
         "edition": 47,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "3"
+                "trait_type": "RANK_LETTER",
+                "value": "C"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_11"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_3_11"
+                "trait_type": "RANK_NUMBER",
+                "value": "9"
             }
         ]
     },
     {
         "id": "48",
-        "name": "KINGNADS_C_7",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_7.png",
+        "name": "KINGNADS_C_8",
+        "description": "RANK C 8",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_8.png",
         "edition": 48,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "3"
+                "trait_type": "RANK_LETTER",
+                "value": "C"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_12"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_3_12"
+                "trait_type": "RANK_NUMBER",
+                "value": "8"
             }
         ]
     },
     {
         "id": "49",
-        "name": "KINGNADS_C_6",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_6.png",
+        "name": "KINGNADS_C_7",
+        "description": "RANK C 7",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_7.png",
         "edition": 49,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "3"
+                "trait_type": "RANK_LETTER",
+                "value": "C"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_13"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_3_13"
+                "trait_type": "RANK_NUMBER",
+                "value": "7"
             }
         ]
     },
     {
         "id": "50",
-        "name": "KINGNADS_C_5",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_5.png",
+        "name": "KINGNADS_C_6",
+        "description": "RANK C 6",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_6.png",
         "edition": 50,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "3"
+                "trait_type": "RANK_LETTER",
+                "value": "C"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_14"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_3_14"
+                "trait_type": "RANK_NUMBER",
+                "value": "6"
             }
         ]
     },
     {
         "id": "51",
-        "name": "KINGNADS_C_4",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_4.png",
+        "name": "KINGNADS_C_5",
+        "description": "RANK C 5",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_5.png",
         "edition": 51,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "3"
+                "trait_type": "RANK_LETTER",
+                "value": "C"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_15"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_3_15"
+                "trait_type": "RANK_NUMBER",
+                "value": "5"
             }
         ]
     },
     {
         "id": "52",
-        "name": "KINGNADS_C_3",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_3.png",
+        "name": "KINGNADS_C_4",
+        "description": "RANK C 4",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_4.png",
         "edition": 52,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "3"
+                "trait_type": "RANK_LETTER",
+                "value": "C"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_16"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_3_16"
+                "trait_type": "RANK_NUMBER",
+                "value": "4"
             }
         ]
     },
     {
         "id": "53",
-        "name": "KINGNADS_C_2",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_2.png",
+        "name": "KINGNADS_C_3",
+        "description": "RANK C 3",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_3.png",
         "edition": 53,
         "attributes": [
             {
-                "trait_type": "BASE",
+                "trait_type": "RANK_LETTER",
+                "value": "C"
+            },
+            {
+                "trait_type": "RANK_NUMBER",
                 "value": "3"
-            },
-            {
-                "trait_type": "BADGE",
-                "value": "badge_rank_17"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_3_17"
             }
         ]
     },
     {
         "id": "54",
-        "name": "KINGNADS_C_1",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_1.png",
+        "name": "KINGNADS_C_2",
+        "description": "RANK C 2",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_2.png",
         "edition": 54,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "3"
+                "trait_type": "RANK_LETTER",
+                "value": "C"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_18"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_3_18"
+                "trait_type": "RANK_NUMBER",
+                "value": "2"
             }
         ]
     },
     {
         "id": "55",
-        "name": "KINGNADS_D_18",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_18.png",
+        "name": "KINGNADS_C_1",
+        "description": "RANK C 1",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_1.png",
         "edition": 55,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "4"
+                "trait_type": "RANK_LETTER",
+                "value": "C"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_1"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_4_1"
+                "trait_type": "RANK_NUMBER",
+                "value": "1"
             }
         ]
     },
     {
         "id": "56",
-        "name": "KINGNADS_D_17",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_17.png",
+        "name": "KINGNADS_D_18",
+        "description": "RANK D 18",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_18.png",
         "edition": 56,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "4"
+                "trait_type": "RANK_LETTER",
+                "value": "D"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_2"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_4_2"
+                "trait_type": "RANK_NUMBER",
+                "value": "18"
             }
         ]
     },
     {
         "id": "57",
-        "name": "KINGNADS_D_16",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_16.png",
+        "name": "KINGNADS_D_17",
+        "description": "RANK D 17",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_17.png",
         "edition": 57,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "4"
+                "trait_type": "RANK_LETTER",
+                "value": "D"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_3"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_4_3"
+                "trait_type": "RANK_NUMBER",
+                "value": "17"
             }
         ]
     },
     {
         "id": "58",
-        "name": "KINGNADS_D_15",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_15.png",
+        "name": "KINGNADS_D_16",
+        "description": "RANK D 16",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_16.png",
         "edition": 58,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "4"
+                "trait_type": "RANK_LETTER",
+                "value": "D"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_4"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_4_4"
+                "trait_type": "RANK_NUMBER",
+                "value": "16"
             }
         ]
     },
     {
         "id": "59",
-        "name": "KINGNADS_D_14",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_14.png",
+        "name": "KINGNADS_D_15",
+        "description": "RANK D 15",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_15.png",
         "edition": 59,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "4"
+                "trait_type": "RANK_LETTER",
+                "value": "D"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_5"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_4_5"
+                "trait_type": "RANK_NUMBER",
+                "value": "15"
             }
         ]
     },
     {
         "id": "60",
-        "name": "KINGNADS_D_13",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_13.png",
+        "name": "KINGNADS_D_14",
+        "description": "RANK D 14",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_14.png",
         "edition": 60,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "4"
+                "trait_type": "RANK_LETTER",
+                "value": "D"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_6"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_4_6"
+                "trait_type": "RANK_NUMBER",
+                "value": "14"
             }
         ]
     },
     {
         "id": "61",
-        "name": "KINGNADS_D_12",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_12.png",
+        "name": "KINGNADS_D_13",
+        "description": "RANK D 13",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_13.png",
         "edition": 61,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "4"
+                "trait_type": "RANK_LETTER",
+                "value": "D"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_7"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_4_7"
+                "trait_type": "RANK_NUMBER",
+                "value": "13"
             }
         ]
     },
     {
         "id": "62",
-        "name": "KINGNADS_D_11",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_11.png",
+        "name": "KINGNADS_D_12",
+        "description": "RANK D 12",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_12.png",
         "edition": 62,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "4"
+                "trait_type": "RANK_LETTER",
+                "value": "D"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_8"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_4_8"
+                "trait_type": "RANK_NUMBER",
+                "value": "12"
             }
         ]
     },
     {
         "id": "63",
-        "name": "KINGNADS_D_10",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_10.png",
+        "name": "KINGNADS_D_11",
+        "description": "RANK D 11",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_11.png",
         "edition": 63,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "4"
+                "trait_type": "RANK_LETTER",
+                "value": "D"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_9"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_4_9"
+                "trait_type": "RANK_NUMBER",
+                "value": "11"
             }
         ]
     },
     {
         "id": "64",
-        "name": "KINGNADS_D_9",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_9.png",
+        "name": "KINGNADS_D_10",
+        "description": "RANK D 10",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_10.png",
         "edition": 64,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "4"
+                "trait_type": "RANK_LETTER",
+                "value": "D"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_10"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_4_10"
+                "trait_type": "RANK_NUMBER",
+                "value": "10"
             }
         ]
     },
     {
         "id": "65",
-        "name": "KINGNADS_D_8",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_8.png",
+        "name": "KINGNADS_D_9",
+        "description": "RANK D 9",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_9.png",
         "edition": 65,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "4"
+                "trait_type": "RANK_LETTER",
+                "value": "D"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_11"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_4_11"
+                "trait_type": "RANK_NUMBER",
+                "value": "9"
             }
         ]
     },
     {
         "id": "66",
-        "name": "KINGNADS_D_7",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_7.png",
+        "name": "KINGNADS_D_8",
+        "description": "RANK D 8",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_8.png",
         "edition": 66,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "4"
+                "trait_type": "RANK_LETTER",
+                "value": "D"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_12"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_4_12"
+                "trait_type": "RANK_NUMBER",
+                "value": "8"
             }
         ]
     },
     {
         "id": "67",
-        "name": "KINGNADS_D_6",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_6.png",
+        "name": "KINGNADS_D_7",
+        "description": "RANK D 7",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_7.png",
         "edition": 67,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "4"
+                "trait_type": "RANK_LETTER",
+                "value": "D"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_13"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_4_13"
+                "trait_type": "RANK_NUMBER",
+                "value": "7"
             }
         ]
     },
     {
         "id": "68",
-        "name": "KINGNADS_D_5",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_5.png",
+        "name": "KINGNADS_D_6",
+        "description": "RANK D 6",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_6.png",
         "edition": 68,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "4"
+                "trait_type": "RANK_LETTER",
+                "value": "D"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_14"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_4_14"
+                "trait_type": "RANK_NUMBER",
+                "value": "6"
             }
         ]
     },
     {
         "id": "69",
-        "name": "KINGNADS_D_4",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_4.png",
+        "name": "KINGNADS_D_5",
+        "description": "RANK D 5",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_5.png",
         "edition": 69,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "4"
+                "trait_type": "RANK_LETTER",
+                "value": "D"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_15"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_4_15"
+                "trait_type": "RANK_NUMBER",
+                "value": "5"
             }
         ]
     },
     {
         "id": "70",
-        "name": "KINGNADS_D_3",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_3.png",
+        "name": "KINGNADS_D_4",
+        "description": "RANK D 4",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_4.png",
         "edition": 70,
         "attributes": [
             {
-                "trait_type": "BASE",
+                "trait_type": "RANK_LETTER",
+                "value": "D"
+            },
+            {
+                "trait_type": "RANK_NUMBER",
                 "value": "4"
-            },
-            {
-                "trait_type": "BADGE",
-                "value": "badge_rank_16"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_4_16"
             }
         ]
     },
     {
         "id": "71",
-        "name": "KINGNADS_D_2",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_2.png",
+        "name": "KINGNADS_D_3",
+        "description": "RANK D 3",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_3.png",
         "edition": 71,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "4"
+                "trait_type": "RANK_LETTER",
+                "value": "D"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_17"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_4_17"
+                "trait_type": "RANK_NUMBER",
+                "value": "3"
             }
         ]
     },
     {
         "id": "72",
-        "name": "KINGNADS_D_1",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_1.png",
+        "name": "KINGNADS_D_2",
+        "description": "RANK D 2",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_2.png",
         "edition": 72,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "4"
+                "trait_type": "RANK_LETTER",
+                "value": "D"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_18"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_4_18"
+                "trait_type": "RANK_NUMBER",
+                "value": "2"
             }
         ]
     },
     {
         "id": "73",
-        "name": "KINGNADS_E_18",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_18.png",
+        "name": "KINGNADS_D_1",
+        "description": "RANK D 1",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_D_1.png",
         "edition": 73,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "5"
+                "trait_type": "RANK_LETTER",
+                "value": "D"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_1"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_5_1"
+                "trait_type": "RANK_NUMBER",
+                "value": "1"
             }
         ]
     },
     {
         "id": "74",
-        "name": "KINGNADS_E_17",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_17.png",
+        "name": "KINGNADS_E_18",
+        "description": "RANK E 18",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_18.png",
         "edition": 74,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "5"
+                "trait_type": "RANK_LETTER",
+                "value": "E"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_2"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_5_2"
+                "trait_type": "RANK_NUMBER",
+                "value": "18"
             }
         ]
     },
     {
         "id": "75",
-        "name": "KINGNADS_E_16",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_16.png",
+        "name": "KINGNADS_E_17",
+        "description": "RANK E 17",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_17.png",
         "edition": 75,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "5"
+                "trait_type": "RANK_LETTER",
+                "value": "E"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_3"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_5_3"
+                "trait_type": "RANK_NUMBER",
+                "value": "17"
             }
         ]
     },
     {
         "id": "76",
-        "name": "KINGNADS_E_15",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_15.png",
+        "name": "KINGNADS_E_16",
+        "description": "RANK E 16",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_16.png",
         "edition": 76,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "5"
+                "trait_type": "RANK_LETTER",
+                "value": "E"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_4"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_5_4"
+                "trait_type": "RANK_NUMBER",
+                "value": "16"
             }
         ]
     },
     {
         "id": "77",
-        "name": "KINGNADS_E_14",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_14.png",
+        "name": "KINGNADS_E_15",
+        "description": "RANK E 15",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_15.png",
         "edition": 77,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "5"
+                "trait_type": "RANK_LETTER",
+                "value": "E"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_5"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_5_5"
+                "trait_type": "RANK_NUMBER",
+                "value": "15"
             }
         ]
     },
     {
         "id": "78",
-        "name": "KINGNADS_E_13",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_13.png",
+        "name": "KINGNADS_E_14",
+        "description": "RANK E 14",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_14.png",
         "edition": 78,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "5"
+                "trait_type": "RANK_LETTER",
+                "value": "E"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_6"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_5_6"
+                "trait_type": "RANK_NUMBER",
+                "value": "14"
             }
         ]
     },
     {
         "id": "79",
-        "name": "KINGNADS_E_12",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_12.png",
+        "name": "KINGNADS_E_13",
+        "description": "RANK E 13",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_13.png",
         "edition": 79,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "5"
+                "trait_type": "RANK_LETTER",
+                "value": "E"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_7"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_5_7"
+                "trait_type": "RANK_NUMBER",
+                "value": "13"
             }
         ]
     },
     {
         "id": "80",
-        "name": "KINGNADS_E_11",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_11.png",
+        "name": "KINGNADS_E_12",
+        "description": "RANK E 12",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_12.png",
         "edition": 80,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "5"
+                "trait_type": "RANK_LETTER",
+                "value": "E"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_8"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_5_8"
+                "trait_type": "RANK_NUMBER",
+                "value": "12"
             }
         ]
     },
     {
         "id": "81",
-        "name": "KINGNADS_E_10",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_10.png",
+        "name": "KINGNADS_E_11",
+        "description": "RANK E 11",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_11.png",
         "edition": 81,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "5"
+                "trait_type": "RANK_LETTER",
+                "value": "E"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_9"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_5_9"
+                "trait_type": "RANK_NUMBER",
+                "value": "11"
             }
         ]
     },
     {
         "id": "82",
-        "name": "KINGNADS_E_9",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_9.png",
+        "name": "KINGNADS_E_10",
+        "description": "RANK E 10",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_10.png",
         "edition": 82,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "5"
+                "trait_type": "RANK_LETTER",
+                "value": "E"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_10"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_5_10"
+                "trait_type": "RANK_NUMBER",
+                "value": "10"
             }
         ]
     },
     {
         "id": "83",
-        "name": "KINGNADS_E_8",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_8.png",
+        "name": "KINGNADS_E_9",
+        "description": "RANK E 9",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_9.png",
         "edition": 83,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "5"
+                "trait_type": "RANK_LETTER",
+                "value": "E"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_11"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_5_11"
+                "trait_type": "RANK_NUMBER",
+                "value": "9"
             }
         ]
     },
     {
         "id": "84",
-        "name": "KINGNADS_E_7",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_7.png",
+        "name": "KINGNADS_E_8",
+        "description": "RANK E 8",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_8.png",
         "edition": 84,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "5"
+                "trait_type": "RANK_LETTER",
+                "value": "E"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_12"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_5_12"
+                "trait_type": "RANK_NUMBER",
+                "value": "8"
             }
         ]
     },
     {
         "id": "85",
-        "name": "KINGNADS_E_6",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_6.png",
+        "name": "KINGNADS_E_7",
+        "description": "RANK E 7",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_7.png",
         "edition": 85,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "5"
+                "trait_type": "RANK_LETTER",
+                "value": "E"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_13"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_5_13"
+                "trait_type": "RANK_NUMBER",
+                "value": "7"
             }
         ]
     },
     {
         "id": "86",
-        "name": "KINGNADS_E_5",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_5.png",
+        "name": "KINGNADS_E_6",
+        "description": "RANK E 6",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_6.png",
         "edition": 86,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "5"
+                "trait_type": "RANK_LETTER",
+                "value": "E"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_14"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_5_14"
+                "trait_type": "RANK_NUMBER",
+                "value": "6"
             }
         ]
     },
     {
         "id": "87",
-        "name": "KINGNADS_E_4",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_4.png",
+        "name": "KINGNADS_E_5",
+        "description": "RANK E 5",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_5.png",
         "edition": 87,
         "attributes": [
             {
-                "trait_type": "BASE",
+                "trait_type": "RANK_LETTER",
+                "value": "E"
+            },
+            {
+                "trait_type": "RANK_NUMBER",
                 "value": "5"
-            },
-            {
-                "trait_type": "BADGE",
-                "value": "badge_rank_15"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_5_15"
             }
         ]
     },
     {
         "id": "88",
-        "name": "KINGNADS_E_3",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_3.png",
+        "name": "KINGNADS_E_4",
+        "description": "RANK E 4",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_4.png",
         "edition": 88,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "5"
+                "trait_type": "RANK_LETTER",
+                "value": "E"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_16"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_5_16"
+                "trait_type": "RANK_NUMBER",
+                "value": "4"
             }
         ]
     },
     {
         "id": "89",
-        "name": "KINGNADS_E_2",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_2.png",
+        "name": "KINGNADS_E_3",
+        "description": "RANK E 3",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_3.png",
         "edition": 89,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "5"
+                "trait_type": "RANK_LETTER",
+                "value": "E"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_17"
-            },
-            {
-                "trait_type": "RANK",
-                "value": "rank_5_17"
+                "trait_type": "RANK_NUMBER",
+                "value": "3"
             }
         ]
     },
     {
         "id": "90",
-        "name": "KINGNADS_E_1",
-        "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_1.png",
+        "name": "KINGNADS_E_2",
+        "description": "RANK E 2",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_2.png",
         "edition": 90,
         "attributes": [
             {
-                "trait_type": "BASE",
-                "value": "5"
+                "trait_type": "RANK_LETTER",
+                "value": "E"
             },
             {
-                "trait_type": "BADGE",
-                "value": "badge_rank_18"
+                "trait_type": "RANK_NUMBER",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "91",
+        "name": "KINGNADS_E_1",
+        "description": "RANK E 1",
+        "image": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_E_1.png",
+        "edition": 91,
+        "attributes": [
+            {
+                "trait_type": "RANK_LETTER",
+                "value": "E"
             },
             {
-                "trait_type": "RANK",
-                "value": "rank_5_18"
+                "trait_type": "RANK_NUMBER",
+                "value": "1"
             }
         ]
     }
