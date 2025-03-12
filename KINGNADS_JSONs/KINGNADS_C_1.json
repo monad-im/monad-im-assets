@@ -1,20 +1,17 @@
 {
-    "id": "54",
+    "id": "55",
     "name": "KINGNADS_C_1",
-    "high_res_img_url": "ipfs://bafybeif6renouyi4trqqqlivqqmzc2do6jxwpi24mm52zrft7tqwkm56gy/KINGNADS_C_1.png",
-    "edition": 54,
+    "description": "RANK C 1",
+    "image": "ipfs://bafybeibdhjugr2jcj6mrmdghuyaxrk3gwxmldfrszz3avmwhsahgvgfw34/KINGNADS_C_1.png",
+    "edition": 55,
     "attributes": [
         {
-            "trait_type": "BASE",
-            "value": "3"
+            "trait_type": "RANK_LETTER",
+            "value": "C"
         },
         {
-            "trait_type": "BADGE",
-            "value": "badge_rank_18"
-        },
-        {
-            "trait_type": "RANK",
-            "value": "rank_3_18"
+            "trait_type": "RANK_NUMBER",
+            "value": "1"
         }
     ]
 }

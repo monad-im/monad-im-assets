@@ -1,0 +1,17 @@
+{
+    "id": "86",
+    "name": "KINGNADS_E_6",
+    "description": "RANK E 6",
+    "image": "ipfs://bafybeibdhjugr2jcj6mrmdghuyaxrk3gwxmldfrszz3avmwhsahgvgfw34/KINGNADS_E_6.png",
+    "edition": 86,
+    "attributes": [
+        {
+            "trait_type": "RANK_LETTER",
+            "value": "E"
+        },
+        {
+            "trait_type": "RANK_NUMBER",
+            "value": "6"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": "78",
+    "name": "KINGNADS_E_14",
+    "description": "RANK E 14",
+    "image": "ipfs://bafybeibdhjugr2jcj6mrmdghuyaxrk3gwxmldfrszz3avmwhsahgvgfw34/KINGNADS_E_14.png",
+    "edition": 78,
+    "attributes": [
+        {
+            "trait_type": "RANK_LETTER",
+            "value": "E"
+        },
+        {
+            "trait_type": "RANK_NUMBER",
+            "value": "14"
+        }
+    ]
+}
