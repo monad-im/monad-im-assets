@@ -18,6 +18,9 @@ This script is responsible for generating the **KINGNADS** NFTs.
 ### 🖼 **KINGNADS Folder Structure**
 The **KINGNADS** folder contains subdirectories organized by ranks, each housing the NFT images for the collection:
 
+- **RANKKING**: 
+  - Contains 1 image (`KINGNADS_KING_1.png`).
+
 - **RANKA**: 
   - Contains 18 images (`KINGNADS_A_1.png` to `KINGNADS_A_18.png`).
   
